@@ -1,4 +1,4 @@
-# :heartpulse: 비쥬얼 프로그래밍 6팀 :heartpulse:
+# :sparkling_heart: 비쥬얼 프로그래밍 6팀 :sparkling_heart:
 ## 팀장 : 조재호(20151251) 조원 : 황지환(20151257) , 박준호(20150503)
 
 
